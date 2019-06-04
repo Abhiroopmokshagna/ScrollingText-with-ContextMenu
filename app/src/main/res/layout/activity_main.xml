@@ -50,6 +50,12 @@
                 android:padding="@dimen/padding_regular"
                 android:text="@string/article_text"
                 android:autoLink="web"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/add_a_comment"
+                android:layout_below="@id/article"
+                android:layout_margin="8dp"/>
         </RelativeLayout>
     </ScrollView>
 </RelativeLayout>
