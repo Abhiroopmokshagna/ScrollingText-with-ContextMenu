@@ -1,4 +1,4 @@
-package com.mokshagna.abhiroop.scrollingtext;
+package com.mokshagna.abhiroop.ScrollingTextHomeWork;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

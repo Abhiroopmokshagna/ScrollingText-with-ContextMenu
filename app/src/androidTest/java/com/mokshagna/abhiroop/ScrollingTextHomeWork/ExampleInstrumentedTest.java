@@ -1,4 +1,4 @@
-package com.mokshagna.abhiroop.scrollingtext;
+package com.mokshagna.abhiroop.ScrollingTextHomeWork;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.mokshagna.abhiroop.scrollingtext", appContext.getPackageName());
+        assertEquals("com.mokshagna.abhiroop.ScrollingTextHomeWork", appContext.getPackageName());
     }
 }
