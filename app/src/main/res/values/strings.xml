@@ -13,4 +13,7 @@
         For more information about transformer movies, visit https://transformers.hasbro.com/en-us
     </string>
     <string name="add_a_comment">Add a comment</string>
+    <string name="context_edit">Edit</string>
+    <string name="context_share">Share</string>
+    <string name="context_delete">Delete</string>
 </resources>
